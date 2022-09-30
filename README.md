@@ -11,3 +11,5 @@ Scan SSH by IP, list IP, list IP range , Scan by country
 Multi thread scan ( Max 2000 threads ), clear cache , clear Ram.
 Custom user/pass list yourself
 Permanent Key!!!
+
+Founded on internet.
